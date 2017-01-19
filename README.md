@@ -1,0 +1,1 @@
+I am making a type of organizer that would allow someone to schedule people for different activities to practice my Javascript skills. It will use Node, Express, SQL on the backend, not sure what I will use on the frontend.
